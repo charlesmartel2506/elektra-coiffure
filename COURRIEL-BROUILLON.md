@@ -14,7 +14,7 @@ En cherchant votre salon, j'ai remarqué qu'elektracoiffure.ca affiche une page 
 
 Je vous ai construit un nouveau site pour ça :
 
-https://charlesmartel2506.github.io/elektra-coiffure/
+https://vaelordesign.github.io/elektra-coiffure/
 
 Gratuit, aucune obligation. Si ça vous représente bien, on en reparle.
 
